@@ -8,7 +8,7 @@ const SearchInput = () => {
   const { searchValue } = useContext(WeatherContex);
 
   const loadOptions =  async (inputValue) => {
-    const response = await fetch(`${geoApiURL}/cities?limit=5&minPopulation=500000&namePrefix=${inputValue}`, geoApiOptions);
+    const response = await fetch(`${geoApiURL}/cities?limit=5&minPopulation=100000&namePrefix=${inputValue}`, geoApiOptions);
     const responseJSON = await response.json();
 
     return {
