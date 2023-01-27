@@ -1,6 +1,7 @@
 # Simple Weather App
 
-it is a simple weather app for location data using GeoApi from Rapid Api and for weather data using Open Weather Api
+it is a simple weather app    
+for location data using GeoApi from Rapid Api and for weather data using Open Weather Api
 
 ## Live Demo
 
