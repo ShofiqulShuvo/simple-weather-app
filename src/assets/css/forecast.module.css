@@ -1,0 +1,42 @@
+
+.infos {
+    margin-top: 1rem;
+    padding: 0 .5rem;
+}
+
+.info {
+    margin-top: 1rem ;
+    padding: .15rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 1px 1px 50px #232CA8;
+}
+
+.day {
+    font-size: 1.1rem;
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.sky {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    padding: 0;
+    margin-right: .30rem;
+    height: 35px;
+}
+
+.text {
+    margin-left: .30rem;
+    font-size: .9rem;
+    color: rgb(185, 185, 185);
+}
+
+.temp {
+    color: #fff;
+}

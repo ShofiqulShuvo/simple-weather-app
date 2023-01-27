@@ -1,0 +1,19 @@
+
+.myapp {
+    min-height: 100vh;
+    padding: .75rem;
+    background: linear-gradient(120deg, #030331, rgb(9, 1, 39));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.main {
+    color: aliceblue;
+    background: linear-gradient(120deg,rgb(30, 44, 165),rgb(170, 47, 241));
+    padding: 1rem;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+}
