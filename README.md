@@ -2,9 +2,9 @@
 
 it is a simple weather app for location data using GeoApi from Rapid Api and for weather data using Open Weather Api
 
-<!-- ## Live Demo
+## Live Demo
 
-[View live demo]() -->
+[View live demo](https://simple-weather-app-with-5days.netlify.app/)
 
 ## Tecnology/Packages used
 
